@@ -1,3 +1,4 @@
+ ```bash
 # Python-week-1-assignment---calc
 
 def calculator():
@@ -24,3 +25,4 @@ def calculator():
         print("Invalid input! Please enter numeric values.")
 
 calculator()
+ ```
